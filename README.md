@@ -61,7 +61,7 @@ npm run dev
 
 ## Live Demo
 
-Access the live version: [Taskify]()
+Access the live version: [Taskify](https://taskify-omega-ashy.vercel.app/)
 
 ## Project Structure
 
